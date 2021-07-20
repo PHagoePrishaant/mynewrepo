@@ -1,1 +1,1 @@
-html is better than js
+html is better than python
